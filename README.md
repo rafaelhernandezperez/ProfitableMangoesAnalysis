@@ -50,15 +50,6 @@ This relationship was also examined across different regions and validated using
 * SciPy — statistical hypothesis testing
 * Jupyter Notebook
 
-📁 Project Structure
-
-mango-market-data-analysis/
-│
-├── ProfitableMangoesAnalysis.ipynb
-├── mango17-19.csv
-├── mango2020.json
-└── README.md
-
 🚀 Running the Analysis
 
 Clone the repository:
